@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+        <array name="villes">
+
+            <item>Marrakech</item>
+            <item>Casablanca</item>
+            <item>Rabat</item>
+            <item>Fes</item>
+            <item>Tanger</item>
+            <item>El Jadida</item>
+            <item>Meknes</item>
+            <item>Tétouan</item>
+            <item>Oujda</item>
+        </array>
+
+
+</resources>

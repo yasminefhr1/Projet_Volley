@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Projet WS</string>
+    <string name="list_etudiants_label">Liste des Étudiants</string>
+    <string name="add_etudiant_label">Ajout dun Étudiant</string>
+</resources>

@@ -1,0 +1,127 @@
+<LinearLayout
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    android:orientation="vertical"
+    android:padding="15sp"
+    android:background="#597777"> <!-- Couleur de fond grise -->
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:orientation="horizontal">
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:paddingLeft="110dp"
+            android:textSize="40dp"
+            android:textStyle="bold"
+            android:textColor="#073333"
+            android:text="Update"
+
+            />
+
+        <ImageView
+            android:id="@+id/imageView4"
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:layout_weight="1"
+            app:srcCompat="@android:drawable/ic_menu_edit" />
+    </LinearLayout>
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="Nom"
+        android:textSize="20dp"
+        android:textStyle="bold"
+        android:textColor="#073333"/>
+    <EditText
+        android:id="@+id/editTextNom"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:hint="Entrer Nom"
+        android:textColor="@android:color/black"/> <!-- Couleur du texte noire -->
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="Prenom"
+        android:textSize="20dp"
+        android:textStyle="bold"
+        android:textColor="#073333"/>
+    <EditText
+        android:id="@+id/editTextPrenom"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:hint="Entrer Prenom"
+        android:textColor="@android:color/black"/> <!-- Couleur du texte noire -->
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="Ville"
+        android:textSize="20dp"
+        android:textStyle="bold"
+        android:textColor="#073333"/>
+    <EditText
+        android:id="@+id/editTextVille"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:hint="Ville"
+        android:textColor="@android:color/black"/> <!-- Couleur du texte noire -->
+
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="Sexe"
+        android:textSize="20dp"
+        android:textStyle="bold"
+        android:textColor="#073333"/>
+    <RadioGroup
+        android:id="@+id/radioGroupSexe"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:orientation="horizontal">
+
+        <RadioButton
+            android:id="@+id/radioMale"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="Male"
+            android:paddingRight="40sp"
+            android:textColor="@android:color/black"/> <!-- Couleur du texte noire -->
+
+        <RadioButton
+            android:id="@+id/radioFemale"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="Female"
+            android:textColor="@android:color/black"/> <!-- Couleur du texte noire -->
+    </RadioGroup>
+
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="Photo Url"
+        android:textSize="20dp"
+        android:textStyle="bold"
+        android:textColor="#073333"/>
+    <EditText
+        android:id="@+id/editTextPhoto"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:hint="Entrer Photo URL"
+        android:textColor="@android:color/black"/> <!-- Couleur du texte noire -->
+
+    <Button
+        android:id="@+id/buttonUpdate"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="Update"
+        android:layout_marginTop="20sp"
+        android:layout_gravity="center"
+        android:backgroundTint="@color/cardview_light_background"
+        android:textSize="20dp"
+        android:textStyle="bold"
+        android:textColor="#073333" />
+</LinearLayout>
