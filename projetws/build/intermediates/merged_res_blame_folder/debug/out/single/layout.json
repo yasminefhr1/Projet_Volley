@@ -1,0 +1,38 @@
+[
+    {
+        "merged": "C:\\Users\\yasmi\\.gradle\\daemon\\8.0\\com.example.projetws.app-mergeDebugResources-30:\\layout\\activity_list_etudiant.xml",
+        "source": "C:\\Users\\yasmi\\.gradle\\daemon\\8.0\\com.example.projetws.app-main-33:\\layout\\activity_list_etudiant.xml"
+    },
+    {
+        "merged": "C:\\Users\\yasmi\\.gradle\\daemon\\8.0\\com.example.projetws.app-mergeDebugResources-30:\\layout\\activity_list.xml",
+        "source": "C:\\Users\\yasmi\\.gradle\\daemon\\8.0\\com.example.projetws.app-main-33:\\layout\\activity_list.xml"
+    },
+    {
+        "merged": "C:\\Users\\yasmi\\.gradle\\daemon\\8.0\\com.example.projetws.app-mergeDebugResources-30:\\layout\\update.xml",
+        "source": "C:\\Users\\yasmi\\.gradle\\daemon\\8.0\\com.example.projetws.app-main-33:\\layout\\update.xml"
+    },
+    {
+        "merged": "C:\\Users\\yasmi\\.gradle\\daemon\\8.0\\com.example.projetws.app-mergeDebugResources-30:\\layout\\activity_splash.xml",
+        "source": "C:\\Users\\yasmi\\.gradle\\daemon\\8.0\\com.example.projetws.app-main-33:\\layout\\activity_splash.xml"
+    },
+    {
+        "merged": "C:\\Users\\yasmi\\.gradle\\daemon\\8.0\\com.example.projetws.app-mergeDebugResources-30:\\layout\\list_item_etudiant.xml",
+        "source": "C:\\Users\\yasmi\\.gradle\\daemon\\8.0\\com.example.projetws.app-main-33:\\layout\\list_item_etudiant.xml"
+    },
+    {
+        "merged": "com.example.projetws.app-mergeDebugResources-30:/layout/activity_list.xml",
+        "source": "com.example.projetws.app-main-33:/layout/activity_list.xml"
+    },
+    {
+        "merged": "C:\\Users\\yasmi\\.gradle\\daemon\\8.0\\com.example.projetws.app-mergeDebugResources-30:\\layout\\dialog_etudiant.xml",
+        "source": "C:\\Users\\yasmi\\.gradle\\daemon\\8.0\\com.example.projetws.app-main-33:\\layout\\dialog_etudiant.xml"
+    },
+    {
+        "merged": "C:\\Users\\yasmi\\.gradle\\daemon\\8.0\\com.example.projetws.app-mergeDebugResources-30:\\layout\\activity_add_etudiant.xml",
+        "source": "C:\\Users\\yasmi\\.gradle\\daemon\\8.0\\com.example.projetws.app-main-33:\\layout\\activity_add_etudiant.xml"
+    },
+    {
+        "merged": "C:\\Users\\yasmi\\.gradle\\daemon\\8.0\\com.example.projetws.app-mergeDebugResources-30:\\layout\\dialog_item_detail.xml",
+        "source": "C:\\Users\\yasmi\\.gradle\\daemon\\8.0\\com.example.projetws.app-main-33:\\layout\\dialog_item_detail.xml"
+    }
+]

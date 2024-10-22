@@ -1,0 +1,142 @@
+[
+    {
+        "merged": "C:\\Users\\yasmi\\.gradle\\daemon\\8.0\\com.example.projetws.app-merged_res-31:\\mipmap-hdpi_back.png.flat",
+        "source": "C:\\Users\\yasmi\\.gradle\\daemon\\8.0\\com.example.projetws.app-main-33:\\mipmap-hdpi\\back.png"
+    },
+    {
+        "merged": "C:\\Users\\yasmi\\.gradle\\daemon\\8.0\\com.example.projetws.app-merged_res-31:\\layout_activity_list.xml.flat",
+        "source": "C:\\Users\\yasmi\\.gradle\\daemon\\8.0\\com.example.projetws.app-main-33:\\layout\\activity_list.xml"
+    },
+    {
+        "merged": "C:\\Users\\yasmi\\.gradle\\daemon\\8.0\\com.example.projetws.app-merged_res-31:\\mipmap-mdpi_ic_launcher_round.webp.flat",
+        "source": "C:\\Users\\yasmi\\.gradle\\daemon\\8.0\\com.example.projetws.app-main-33:\\mipmap-mdpi\\ic_launcher_round.webp"
+    },
+    {
+        "merged": "C:\\Users\\yasmi\\.gradle\\daemon\\8.0\\com.example.projetws.app-merged_res-31:\\layout_dialog_etudiant.xml.flat",
+        "source": "C:\\Users\\yasmi\\.gradle\\daemon\\8.0\\com.example.projetws.app-main-33:\\layout\\dialog_etudiant.xml"
+    },
+    {
+        "merged": "C:\\Users\\yasmi\\.gradle\\daemon\\8.0\\com.example.projetws.app-merged_res-31:\\mipmap-xhdpi_ic_launcher_round.webp.flat",
+        "source": "C:\\Users\\yasmi\\.gradle\\daemon\\8.0\\com.example.projetws.app-main-33:\\mipmap-xhdpi\\ic_launcher_round.webp"
+    },
+    {
+        "merged": "C:\\Users\\yasmi\\.gradle\\daemon\\8.0\\com.example.projetws.app-merged_res-31:\\layout_update.xml.flat",
+        "source": "C:\\Users\\yasmi\\.gradle\\daemon\\8.0\\com.example.projetws.app-main-33:\\layout\\update.xml"
+    },
+    {
+        "merged": "C:\\Users\\yasmi\\.gradle\\daemon\\8.0\\com.example.projetws.app-merged_res-31:\\anim_zoom.xml.flat",
+        "source": "C:\\Users\\yasmi\\.gradle\\daemon\\8.0\\com.example.projetws.app-main-33:\\anim\\zoom.xml"
+    },
+    {
+        "merged": "C:\\Users\\yasmi\\.gradle\\daemon\\8.0\\com.example.projetws.app-merged_res-31:\\drawable_ic_launcher_background.xml.flat",
+        "source": "C:\\Users\\yasmi\\.gradle\\daemon\\8.0\\com.example.projetws.app-main-33:\\drawable\\ic_launcher_background.xml"
+    },
+    {
+        "merged": "C:\\Users\\yasmi\\.gradle\\daemon\\8.0\\com.example.projetws.app-merged_res-31:\\layout_activity_splash.xml.flat",
+        "source": "C:\\Users\\yasmi\\.gradle\\daemon\\8.0\\com.example.projetws.app-main-33:\\layout\\activity_splash.xml"
+    },
+    {
+        "merged": "C:\\Users\\yasmi\\.gradle\\daemon\\8.0\\com.example.projetws.app-merged_res-31:\\xml_backup_rules.xml.flat",
+        "source": "C:\\Users\\yasmi\\.gradle\\daemon\\8.0\\com.example.projetws.app-main-33:\\xml\\backup_rules.xml"
+    },
+    {
+        "merged": "C:\\Users\\yasmi\\.gradle\\daemon\\8.0\\com.example.projetws.app-merged_res-31:\\drawable_baseline_search_24.xml.flat",
+        "source": "C:\\Users\\yasmi\\.gradle\\daemon\\8.0\\com.example.projetws.app-main-33:\\drawable\\baseline_search_24.xml"
+    },
+    {
+        "merged": "C:\\Users\\yasmi\\.gradle\\daemon\\8.0\\com.example.projetws.app-merged_res-31:\\mipmap-xxhdpi_ic_launcher.webp.flat",
+        "source": "C:\\Users\\yasmi\\.gradle\\daemon\\8.0\\com.example.projetws.app-main-33:\\mipmap-xxhdpi\\ic_launcher.webp"
+    },
+    {
+        "merged": "C:\\Users\\yasmi\\.gradle\\daemon\\8.0\\com.example.projetws.app-merged_res-31:\\drawable_baseline_account_box_24.xml.flat",
+        "source": "C:\\Users\\yasmi\\.gradle\\daemon\\8.0\\com.example.projetws.app-main-33:\\drawable\\baseline_account_box_24.xml"
+    },
+    {
+        "merged": "C:\\Users\\yasmi\\.gradle\\daemon\\8.0\\com.example.projetws.app-merged_res-31:\\layout_dialog_item_detail.xml.flat",
+        "source": "C:\\Users\\yasmi\\.gradle\\daemon\\8.0\\com.example.projetws.app-main-33:\\layout\\dialog_item_detail.xml"
+    },
+    {
+        "merged": "C:\\Users\\yasmi\\.gradle\\daemon\\8.0\\com.example.projetws.app-merged_res-31:\\mipmap-xhdpi_ic_launcher.webp.flat",
+        "source": "C:\\Users\\yasmi\\.gradle\\daemon\\8.0\\com.example.projetws.app-main-33:\\mipmap-xhdpi\\ic_launcher.webp"
+    },
+    {
+        "merged": "C:\\Users\\yasmi\\.gradle\\daemon\\8.0\\com.example.projetws.app-merged_res-31:\\layout_activity_add_etudiant.xml.flat",
+        "source": "C:\\Users\\yasmi\\.gradle\\daemon\\8.0\\com.example.projetws.app-main-33:\\layout\\activity_add_etudiant.xml"
+    },
+    {
+        "merged": "C:\\Users\\yasmi\\.gradle\\daemon\\8.0\\com.example.projetws.app-merged_res-31:\\drawable_baseline_approval_24.xml.flat",
+        "source": "C:\\Users\\yasmi\\.gradle\\daemon\\8.0\\com.example.projetws.app-main-33:\\drawable\\baseline_approval_24.xml"
+    },
+    {
+        "merged": "C:\\Users\\yasmi\\.gradle\\daemon\\8.0\\com.example.projetws.app-merged_res-31:\\xml_network_security_config.xml.flat",
+        "source": "C:\\Users\\yasmi\\.gradle\\daemon\\8.0\\com.example.projetws.app-main-33:\\xml\\network_security_config.xml"
+    },
+    {
+        "merged": "C:\\Users\\yasmi\\.gradle\\daemon\\8.0\\com.example.projetws.app-merged_res-31:\\mipmap-hdpi_ic_launcher.webp.flat",
+        "source": "C:\\Users\\yasmi\\.gradle\\daemon\\8.0\\com.example.projetws.app-main-33:\\mipmap-hdpi\\ic_launcher.webp"
+    },
+    {
+        "merged": "C:\\Users\\yasmi\\.gradle\\daemon\\8.0\\com.example.projetws.app-merged_res-31:\\drawable_ic_delete.png.flat",
+        "source": "C:\\Users\\yasmi\\.gradle\\daemon\\8.0\\com.example.projetws.app-main-33:\\drawable\\ic_delete.png"
+    },
+    {
+        "merged": "C:\\Users\\yasmi\\.gradle\\daemon\\8.0\\com.example.projetws.app-merged_res-31:\\mipmap-hdpi_splash.png.flat",
+        "source": "C:\\Users\\yasmi\\.gradle\\daemon\\8.0\\com.example.projetws.app-main-33:\\mipmap-hdpi\\splash.png"
+    },
+    {
+        "merged": "C:\\Users\\yasmi\\.gradle\\daemon\\8.0\\com.example.projetws.app-merged_res-31:\\menu_menu.xml.flat",
+        "source": "C:\\Users\\yasmi\\.gradle\\daemon\\8.0\\com.example.projetws.app-main-33:\\menu\\menu.xml"
+    },
+    {
+        "merged": "C:\\Users\\yasmi\\.gradle\\daemon\\8.0\\com.example.projetws.app-merged_res-31:\\layout_activity_list_etudiant.xml.flat",
+        "source": "C:\\Users\\yasmi\\.gradle\\daemon\\8.0\\com.example.projetws.app-main-33:\\layout\\activity_list_etudiant.xml"
+    },
+    {
+        "merged": "C:\\Users\\yasmi\\.gradle\\daemon\\8.0\\com.example.projetws.app-merged_res-31:\\drawable-anydpi-v24_ic_launcher_foreground.xml.flat",
+        "source": "C:\\Users\\yasmi\\.gradle\\daemon\\8.0\\com.example.projetws.app-pngs-27:\\drawable-anydpi-v24\\ic_launcher_foreground.xml"
+    },
+    {
+        "merged": "C:\\Users\\yasmi\\.gradle\\daemon\\8.0\\com.example.projetws.app-merged_res-31:\\layout_list_item_etudiant.xml.flat",
+        "source": "C:\\Users\\yasmi\\.gradle\\daemon\\8.0\\com.example.projetws.app-main-33:\\layout\\list_item_etudiant.xml"
+    },
+    {
+        "merged": "C:\\Users\\yasmi\\.gradle\\daemon\\8.0\\com.example.projetws.app-merged_res-31:\\xml_data_extraction_rules.xml.flat",
+        "source": "C:\\Users\\yasmi\\.gradle\\daemon\\8.0\\com.example.projetws.app-main-33:\\xml\\data_extraction_rules.xml"
+    },
+    {
+        "merged": "C:\\Users\\yasmi\\.gradle\\daemon\\8.0\\com.example.projetws.app-merged_res-31:\\mipmap-xxhdpi_ic_launcher_round.webp.flat",
+        "source": "C:\\Users\\yasmi\\.gradle\\daemon\\8.0\\com.example.projetws.app-main-33:\\mipmap-xxhdpi\\ic_launcher_round.webp"
+    },
+    {
+        "merged": "C:\\Users\\yasmi\\.gradle\\daemon\\8.0\\com.example.projetws.app-merged_res-31:\\mipmap-xxxhdpi_ic_launcher.webp.flat",
+        "source": "C:\\Users\\yasmi\\.gradle\\daemon\\8.0\\com.example.projetws.app-main-33:\\mipmap-xxxhdpi\\ic_launcher.webp"
+    },
+    {
+        "merged": "com.example.projetws.app-merged_res-31:/layout_activity_list.xml.flat",
+        "source": "com.example.projetws.app-main-33:/layout/activity_list.xml"
+    },
+    {
+        "merged": "C:\\Users\\yasmi\\.gradle\\daemon\\8.0\\com.example.projetws.app-merged_res-31:\\mipmap-mdpi_ic_launcher.webp.flat",
+        "source": "C:\\Users\\yasmi\\.gradle\\daemon\\8.0\\com.example.projetws.app-main-33:\\mipmap-mdpi\\ic_launcher.webp"
+    },
+    {
+        "merged": "C:\\Users\\yasmi\\.gradle\\daemon\\8.0\\com.example.projetws.app-merged_res-31:\\anim_turn_page.xml.flat",
+        "source": "C:\\Users\\yasmi\\.gradle\\daemon\\8.0\\com.example.projetws.app-main-33:\\anim\\turn_page.xml"
+    },
+    {
+        "merged": "C:\\Users\\yasmi\\.gradle\\daemon\\8.0\\com.example.projetws.app-merged_res-31:\\mipmap-hdpi_ic_launcher_round.webp.flat",
+        "source": "C:\\Users\\yasmi\\.gradle\\daemon\\8.0\\com.example.projetws.app-main-33:\\mipmap-hdpi\\ic_launcher_round.webp"
+    },
+    {
+        "merged": "C:\\Users\\yasmi\\.gradle\\daemon\\8.0\\com.example.projetws.app-merged_res-31:\\mipmap-xxxhdpi_ic_launcher_round.webp.flat",
+        "source": "C:\\Users\\yasmi\\.gradle\\daemon\\8.0\\com.example.projetws.app-main-33:\\mipmap-xxxhdpi\\ic_launcher_round.webp"
+    },
+    {
+        "merged": "C:\\Users\\yasmi\\.gradle\\daemon\\8.0\\com.example.projetws.app-merged_res-31:\\mipmap-anydpi-v26_ic_launcher.xml.flat",
+        "source": "C:\\Users\\yasmi\\.gradle\\daemon\\8.0\\com.example.projetws.app-main-33:\\mipmap-anydpi-v26\\ic_launcher.xml"
+    },
+    {
+        "merged": "C:\\Users\\yasmi\\.gradle\\daemon\\8.0\\com.example.projetws.app-merged_res-31:\\mipmap-anydpi-v26_ic_launcher_round.xml.flat",
+        "source": "C:\\Users\\yasmi\\.gradle\\daemon\\8.0\\com.example.projetws.app-main-33:\\mipmap-anydpi-v26\\ic_launcher_round.xml"
+    }
+]
